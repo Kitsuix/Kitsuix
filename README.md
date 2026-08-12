@@ -50,8 +50,8 @@ I like turning ideas into practical software and clean online experiences. Some 
 ## Technologies I'm Working With
 
 ```text
-Systems       Linux • Raspberry Pi • systemd • SSH • Tailscale • Docker
-Development   Python • Go • JavaScript • React • Tailwind CSS  • Codex
+Systems       Linux • Raspberry Pi • systemd • SSH • Tailscale • Docker • Codex
+Development   Python • Go • JavaScript • React • Tailwind CSS  
 Game Servers  Minecraft • Paper • Fabric • ComputerCraft
 Operations    Backups • Logging • Monitoring • Moderation • Automation
 ```
